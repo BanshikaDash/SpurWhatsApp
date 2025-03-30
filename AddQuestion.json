@@ -1,0 +1,78 @@
+{
+  "id": "3e269723-426b-4501-9e42-1f9a5f9642b2",
+  "name": "AddQuestion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bd0d0c05-b1e4-4cd2-99c4-7bb3f988503e",
+          "name": "questionType",
+          "required": true,
+          "dataType": "@QuestionType",
+          "value": "questionType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of question would you like to add"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a0952a7a-4d95-4236-af8f-7adbf46d3a5d",
+          "name": "questionText",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "questionText",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the question text"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Please provide the question you\u0027d like to add.",
+            "Got it! What’s the question you want to include?",
+            "No problem! Enter the question details, and I\u0027ll add it for you.",
+            "Okay! Tell me the question, and I’ll add it to your form.",
+            "I can do that! Please type the question you’d like to include."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

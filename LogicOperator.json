@@ -1,0 +1,9 @@
+{
+  "id": "b2a0cb21-342a-4dde-9dc4-efbd2a2a6fd6",
+  "name": "LogicOperator",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

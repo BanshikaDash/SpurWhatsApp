@@ -1,0 +1,54 @@
+{
+  "id": "5b4f2b69-1f20-45a7-976a-2d39b350a454",
+  "name": "CreateForm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "38f07ed7-79e0-4129-afd2-ab78c795eec4",
+          "name": "formTemplate",
+          "required": false,
+          "dataType": "@FormTemplates",
+          "value": "formTemplate",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! What would you like to name your form?",
+            "Great! Let’s start by setting a title for your form",
+            "I’ll create a new form for you. What should the title be?",
+            "Let\u0027s begin! Do you want a blank form or a template?",
+            "Form creation started! What type of questions do you want to add?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

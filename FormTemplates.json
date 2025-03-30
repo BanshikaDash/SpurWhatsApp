@@ -1,0 +1,9 @@
+{
+  "id": "1e0e255b-100b-44ca-81a1-822b96813bd6",
+  "name": "FormTemplates",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

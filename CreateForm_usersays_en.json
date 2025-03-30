@@ -1,0 +1,67 @@
+[
+  {
+    "id": "57ff404e-340d-4f78-9960-d75755ef8fe7",
+    "data": [
+      {
+        "text": "Set up a form for data collection.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44c26197-56bc-4713-be21-7769070b6c51",
+    "data": [
+      {
+        "text": "Can you generate a new form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b56ee778-b302-4b56-b13a-146a854b54a0",
+    "data": [
+      {
+        "text": "Make a new questionnaire.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc8310da-217c-44eb-8c22-8c8f92066160",
+    "data": [
+      {
+        "text": "Start a fresh survey for me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9b4c700-80d5-428f-bd0b-5acae40f8908",
+    "data": [
+      {
+        "text": "I need to create a new form.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

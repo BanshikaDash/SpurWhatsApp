@@ -1,0 +1,46 @@
+[
+  {
+    "value": "text",
+    "synonyms": [
+      "text",
+      "text question",
+      "text input",
+      "free text"
+    ]
+  },
+  {
+    "value": "multiple-choice",
+    "synonyms": [
+      "multiple-choice",
+      "multiple choice",
+      "options",
+      "choice question"
+    ]
+  },
+  {
+    "value": "number",
+    "synonyms": [
+      "number",
+      "numeric input",
+      "numeric question"
+    ]
+  },
+  {
+    "value": "date",
+    "synonyms": [
+      "date",
+      "date input",
+      "calender",
+      "date question"
+    ]
+  },
+  {
+    "value": "file",
+    "synonyms": [
+      "file",
+      "file upload",
+      "attachment",
+      "document"
+    ]
+  }
+]

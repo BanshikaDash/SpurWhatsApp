@@ -1,0 +1,51 @@
+[
+  {
+    "value": "equals",
+    "synonyms": [
+      "equals",
+      "is",
+      "equal to",
+      "matches",
+      "same as"
+    ]
+  },
+  {
+    "value": "contains",
+    "synonyms": [
+      "contains",
+      "has",
+      "includes",
+      "involves"
+    ]
+  },
+  {
+    "value": "greater_than",
+    "synonyms": [
+      "greater_than",
+      "exceeds",
+      "more than",
+      "above",
+      "higher than"
+    ]
+  },
+  {
+    "value": "less_than",
+    "synonyms": [
+      "less_than",
+      "below",
+      "fewer than",
+      "under",
+      "lower than"
+    ]
+  },
+  {
+    "value": "not_equals",
+    "synonyms": [
+      "not_equals",
+      "isn\u0027t",
+      "is not",
+      "doesn\u0027t equal",
+      "different from"
+    ]
+  }
+]

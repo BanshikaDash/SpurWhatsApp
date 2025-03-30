@@ -1,0 +1,47 @@
+[
+  {
+    "value": "customer_survey",
+    "synonyms": [
+      "customer_survey",
+      "feedback survey",
+      "customer feedback",
+      "satisfaction survey"
+    ]
+  },
+  {
+    "value": "appointment_booking",
+    "synonyms": [
+      "appointment_booking",
+      "schedule appointment",
+      "book metting",
+      "reservation"
+    ]
+  },
+  {
+    "value": "feedback_form",
+    "synonyms": [
+      "feedback_form",
+      "review form",
+      "ratings form",
+      "testimonial"
+    ]
+  },
+  {
+    "value": "contact_form",
+    "synonyms": [
+      "contact_form",
+      "inquiry form",
+      "request information",
+      "get in touch"
+    ]
+  },
+  {
+    "value": "order_form",
+    "synonyms": [
+      "order_form",
+      "purchase form",
+      "buy product",
+      "place order"
+    ]
+  }
+]

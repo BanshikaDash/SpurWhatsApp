@@ -1,0 +1,78 @@
+{
+  "id": "e246bc9c-800e-44af-bc52-d65ddb0a5bd2",
+  "name": "LogicBranching",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1875993b-3de8-455b-9a6c-c769d1cda43b",
+          "name": "condition",
+          "required": true,
+          "dataType": "@LogicOperator",
+          "value": "condition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What condition would you like to set for this logic branch?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c60de365-a8be-41ad-88f8-fa41289defb1",
+          "name": "action",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "action",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What should happen when the condition is met"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes! You can set conditional logic for branching in your form.",
+            "Absolutely! Let me know the condition, and I’ll guide you.",
+            "Forms can have logic-based branching. What’s your requirement?",
+            "Sure! You can skip or show questions based on user responses.",
+            "Conditional logic is possible! What behavior do you want to implement?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
